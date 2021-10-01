@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mobile Freelancer</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="email_title">Email</string>
+    <string name="password_title">Password</string>
+    <string name="empty_string">no data</string>
+    <string name="newbie">Newbie?</string>
+    <string name="cr_account">Create Account</string>
+    <string name="lets_get_started">Let\'s Get Started</string>
+    <string name="member">Are You a Member?</string>
+    <string name="login_text">Log In</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="log_out">Log out</string>
+    <string name="fragment">Fragment</string>
+    <string name="title_activity_main">Main Activity</string>
+    <string name="profile">Profile</string>
+    <string name="profile_name">Dustin Warren</string>
+    <string name="profile_majority">UX Designer</string>
+    <string name="profile_desc">Description</string>
+    <string name="profile_desc_text">My name is Dustin, I’m a young designer from Dublin. I practice for 4 years now, worked with small and big agencies.
+Blablabla</string>
+    <string name="review_count">64 reviews</string>
+
+</resources>
